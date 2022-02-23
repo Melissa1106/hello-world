@@ -1,2 +1,2 @@
 # hello-world
-Aprendiendo a escribir hello world 
+MI primer repositorio 
